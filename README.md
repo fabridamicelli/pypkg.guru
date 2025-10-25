@@ -1,2 +1,2 @@
-# pypi-guru
+# pypi.guru
 Find Python Packages Fast
