@@ -3,3 +3,5 @@ Like the website? Don't forget to give it a GitHub ⭐ to help others find and t
 
 # pypi.guru
 Find Python Packages Fast
+
+![](./images/screencast.gif)
